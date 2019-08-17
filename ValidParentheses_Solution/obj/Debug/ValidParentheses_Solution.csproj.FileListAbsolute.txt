@@ -1,0 +1,7 @@
+C:\Users\Dmytr\source\repos\ValidParentheses_Solution\ValidParentheses_Solution\bin\Debug\ValidParentheses_Solution.exe.config
+C:\Users\Dmytr\source\repos\ValidParentheses_Solution\ValidParentheses_Solution\bin\Debug\ValidParentheses_Solution.exe
+C:\Users\Dmytr\source\repos\ValidParentheses_Solution\ValidParentheses_Solution\bin\Debug\ValidParentheses_Solution.pdb
+C:\Users\Dmytr\source\repos\ValidParentheses_Solution\ValidParentheses_Solution\obj\Debug\ValidParentheses_Solution.csprojAssemblyReference.cache
+C:\Users\Dmytr\source\repos\ValidParentheses_Solution\ValidParentheses_Solution\obj\Debug\ValidParentheses_Solution.csproj.CoreCompileInputs.cache
+C:\Users\Dmytr\source\repos\ValidParentheses_Solution\ValidParentheses_Solution\obj\Debug\ValidParentheses_Solution.exe
+C:\Users\Dmytr\source\repos\ValidParentheses_Solution\ValidParentheses_Solution\obj\Debug\ValidParentheses_Solution.pdb
